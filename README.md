@@ -1,6 +1,10 @@
 ## Overview
 
-This is a CNN based model which is trained on the oasis 2 dataset. It classifies .nifti MRI scans into demented and non-demented classes.
+This model classifies .nifti MRI scans into demented and non-demented classes.
+
+## Dataset
+
+This is a CNN based model which is trained on the oasis 2 dataset. 
 
 ## Comtributors
 
